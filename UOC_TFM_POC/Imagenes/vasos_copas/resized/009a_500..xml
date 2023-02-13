@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>conversion</folder>
+	<filename>009a_500..png</filename>
+	<path>C:\Users\dcsj\Repositorios\UOC_TFM\ConversorImagenes\Imagenes\vasos_copas\conversion\009a_500..png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vaso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>19</ymin>
+			<xmax>350</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
