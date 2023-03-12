@@ -1,4 +1,5 @@
-image_classifier/.idea
+image_classifier/.idea/*
 image_classifier/datapreparation/__pycache__
 runs/detect/predict/*.jpg
 image_classifier/objectdetection/__pycache__
+image_classifier/.idea/image_classifier.iml
